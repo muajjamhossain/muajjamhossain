@@ -7,8 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/hmh_imu" target="blank"><img src="https://img.shields.io/twitter/follow/hmh_imu?logo=twitter&style=for-the-badge" alt="hmh_imu" /></a> </p>
 
-- 🔭 I’m currently working on [Bangladesh Submarine Cable Company Limited (BSCCL)](http://www.bsccl.com/)
-
+- 🔭 I’m currently working on [AYT(At Your Service) (BRAC Bank)](https://www.bracbank.com/en/)
+- 🔭 I’m currently working on [Sheba in Astha(Customer Interface) (BRAC Bank)](https://astha.bracbank.com/ib-retail-web/tenant/index)
+- 🔭 I’m currently working on [VOC(Voice of Customer) (Mutual Trust Bank PLC)](https://www.mutualtrustbank.com/)
+- 🔭 I recently worked on [Bangladesh Submarine Cable Company Limited (BSCCL)](http://www.bsccl.com/)
 - 🌱 I’m currently learning **Php, Laravel, VueJs,Payrole, Billing, POS, Inventory, E-Commerce**
 
 - 👯 I’m looking to collaborate on [Department of Shipping](https://doserp.dos.gov.bd/)
