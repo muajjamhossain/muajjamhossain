@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **muajjam.imu@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iwT4cxTP1M5d6QAgR0sRqZwCvzK4cL5r/edit?usp=sharing&ouid=113807383039780397395&rtpof=true&sd=true]([https://drive.google.com/file/d/1G4i2dZWNURdI0fFcvGAohUDM9S0k_PyL/view?usp=sharing](https://docs.google.com/document/d/1iwT4cxTP1M5d6QAgR0sRqZwCvzK4cL5r/edit?usp=sharing&ouid=113807383039780397395&rtpof=true&sd=true))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G4i2dZWNURdI0fFcvGAohUDM9S0k_PyL/view?usp=sharing](https://drive.google.com/file/d/1G4i2dZWNURdI0fFcvGAohUDM9S0k_PyL/view?usp=sharing)
 
 - ⚡ Fun fact **Yes**
 
