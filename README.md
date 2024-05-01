@@ -27,6 +27,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G4i2dZWNURdI0fFcvGAohUDM9S0k_PyL/view?usp=sharing](https://drive.google.com/file/d/1G4i2dZWNURdI0fFcvGAohUDM9S0k_PyL/view?usp=sharing)
 
+- 📄 Know about my CV [https://docs.google.com/document/d/1iwT4cxTP1M5d6QAgR0sRqZwCvzK4cL5r/edit?usp=drive_link&ouid=113807383039780397395&rtpof=true&sd=true](https://docs.google.com/document/d/1iwT4cxTP1M5d6QAgR0sRqZwCvzK4cL5r/edit?usp=drive_link&ouid=113807383039780397395&rtpof=true&sd=true)
+
 - ⚡ Fun fact **Yes**
 
 <h3 align="left">Connect with me:</h3>
